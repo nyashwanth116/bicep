@@ -1,0 +1,1 @@
+﻿New-Item -Path "C:\Users\yashwanthn\Documents\" -Name "testfile2.txt" -ItemType File -Value "Hello World"
