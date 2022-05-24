@@ -1,0 +1,1 @@
+﻿Copy-Item -Path \\ati.corp.com\atiglobal\Accenture\ccmsetup -Destination C:\Windows
